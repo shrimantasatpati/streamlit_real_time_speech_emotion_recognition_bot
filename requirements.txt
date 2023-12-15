@@ -1,0 +1,7 @@
+git+https://github.com/openai/whisper.git 
+transformers
+torch
+torchaudio
+torchvision
+streamlit
+streamlit-mic-recorder
