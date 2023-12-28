@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Run the Application
 ```bash
-streamlit run src/app.py
+streamlit run app.py
 ```
 
 Visit `http://localhost:8501` in your browser to interact with the real-time emotion recognition bot.
