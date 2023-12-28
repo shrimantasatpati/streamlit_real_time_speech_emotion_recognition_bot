@@ -24,10 +24,6 @@ Visit `http://localhost:8501` in your browser to interact with the real-time emo
 3. Speak into the microphone.
 4. The bot will analyze the spoken language and display the detected emotion.
 
-### Configuration
-- You can customize the application settings in `app.py` and `emotion_recognition.py`.
-- Adjust the sensitivity, language model parameters, or UI components as needed.
-
 ### Contributing
 Feel free to contribute by opening issues or submitting pull requests. Follow the [contribution guidelines](CONTRIBUTING.md) for more details.
 
