@@ -1,14 +1,4 @@
 # streamlit_real_time_speech_emotion_recognition_bot
-## Clone the Repository
-```bash
-git clone https://github.com/shrimantasatpati/streamlit_real_time_speech_emotion_recognition_bot
-cd shrimantasatpati/streamlit_real_time_speech_emotion_recognition_bot
-```
-
-## Install Dependencies
-```bash
-pip install -r requirements.txt
-```
 
 ## Run the Application
 ```bash
